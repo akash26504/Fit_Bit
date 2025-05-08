@@ -17,13 +17,18 @@ FitBit is a sleek and user-friendly Flutter app designed to help users track the
   <img src="https://github.com/user-attachments/assets/b4f43d40-18a5-4d58-bfe9-b8c0dfc4d738" width="300" alt="Screenshot 2" />
 </div>
 
+
+
+https://github.com/user-attachments/assets/edeb0f67-4118-48e7-81be-9129f68775a5
+
+
 ## 🛠️ Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev/)  
 - **Language**: Dart  
 - **Design**: Material Design
 
-https://github.com/user-attachments/assets/fa6c40c4-9d1a-4ee9-b60c-22f092699eb3
+
 
 ## 📦 Installation
 
